@@ -1,0 +1,38 @@
+PANDUAN WEBSITE AGENCY HTML
+
+FILE
+- index.html: website lengkap (HTML, CSS, JavaScript dalam satu file).
+
+SEBELUM DIPUBLIKASIKAN
+1. Buka index.html menggunakan editor teks seperti Notepad, VS Code, atau Notepad++.
+2. Gunakan Find/Replace untuk mengganti:
+   - [NAMA AGENCY] dengan nama bisnis Anda.
+   - [EMAIL BISNIS] dengan email bisnis yang benar.
+   - [@USERNAME] dengan akun Instagram bisnis Anda.
+   - Nama Kreator 01–04 dengan nama kreator aktual, dan ubah emoji menjadi foto bila diinginkan.
+3. Cari teks WHATSAPP_NUMBER di bagian JavaScript. Ganti nomor contoh 6281234567890 dengan nomor WhatsApp bisnis Anda dalam format internasional tanpa tanda +, spasi, atau strip. Contoh format Indonesia: 6281234567890.
+4. Periksa seluruh layanan, klaim, dan isi FAQ. Hapus hal yang tidak sesuai dengan bisnis Anda.
+5. Simpan file dengan nama index.html.
+
+CARA MELIHAT WEBSITE DI KOMPUTER
+1. Klik dua kali index.html.
+2. File akan terbuka di browser seperti Chrome, Edge, atau Firefox.
+3. Uji menu navigasi, tautan, dan formulir. Formulir membuka WhatsApp setelah nomor dikonfigurasi.
+
+CARA MEMASANG KE HOSTING
+Metode A — cPanel:
+1. Login ke cPanel hosting dan buka File Manager.
+2. Masuk ke folder public_html (atau folder domain yang sesuai).
+3. Unggah index.html.
+4. Buka domain Anda dan pastikan halaman tampil menggunakan HTTPS.
+
+Metode B — Hosting statis:
+1. Buat proyek/site baru pada penyedia hosting statis yang mendukung HTML.
+2. Unggah index.html sebagai file utama.
+3. Hubungkan domain jika diperlukan, lalu aktifkan HTTPS sesuai instruksi penyedia hosting.
+
+CATATAN PENTING
+- Website ini adalah template front-end statis. Tidak ada database, dashboard admin, login, atau sistem penyimpanan formulir.
+- Formulir menyiapkan pesan dan membuka WhatsApp; pesan tidak dikirim otomatis.
+- Profil kreator, layanan, email, statistik, dan nama brand perlu disesuaikan dengan data yang benar.
+- Jangan menampilkan testimoni, logo klien, angka performa, atau klaim kerja sama yang belum terverifikasi.
